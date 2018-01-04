@@ -6,8 +6,7 @@ Você pode editar esse documento acessando o [editor on GitHub](https://github.c
 O Caju Valley não se resume a um local, pessoa, empresa ou organização. Somos uma comunidade plural, formada por e para empreendedores sergipanos movidos pela necessidade de contribuir com a sociedade.
 
 ## Manifesto
-
-
+Leia o documento completo em [https://andreywallace.github.io/presetantion-caju-valley/](https://andreywallace.github.io/presetantion-caju-valley/).
 
 ## Eventos
 O Caju Valley organiza mensalmente eventos em Aracaju, onde você poderá conhecer outros empreendedores, estudantes e curiosos de diversas áreas. Além disso, terá a a oportunidade de apresentar o pitch da sua startup ou idéia e receber o feedback da comunidade. 
