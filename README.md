@@ -49,7 +49,7 @@ Contamos com você e vamos juntos fazer um Sergipe mais inovador. Para colaborar
 ## Mapeamento do Ecossistema
 1. (Parcial) Realizado por Rodrigo e Rafael Reis Ferreira em [April 20, 2015 no grupo do Facebook](https://www.facebook.com/groups/startup.aracaju/permalink/840152999399190/).
 Acesse o link no [MapBox](https://a.tiles.mapbox.com/v4/rafaelrferreira.li0676ek/page.html?access_token=pk.eyJ1IjoicmFmYWVscmZlcnJlaXJhIiwiYSI6Im0zeDY1SEUifQ.2jp6xymXjVj1vStEuhj1lQ#14/-10.9602/-37.0616).
-2. (Parcial) Disponível no [MappedInBrazil] (http://mappedinbrasil.com.br/)
+2. (Parcial) Disponível no [MappedInBrazil](http://mappedinbrasil.com.br/)
 
 ## Comunidades parceiras
 - [Google Developer Groups (GDG)](http://www.gdgaracaju.com.br)
