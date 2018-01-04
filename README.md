@@ -47,8 +47,9 @@ Contamos com você e vamos juntos fazer um Sergipe mais inovador. Para colaborar
 3. Criação do capítulo da [IxDA](https://ixda.org/) aqui em Aracaju: [IxDA](https://ixda.org/) é a Interaction Design Association, um grupo internacional de designers. Originalmente, a [IxDA](https://ixda.org/) focava exclusivamente em Design de Interação, mas hoje em dia o foco é na Experiência do Usuário seja ela qual for, com serviços, artefatos digitais, produtos físicos, etc.
 
 ## Mapeamento do Ecossistema
-Parcialmente realizado por Rodrigo e Rafael Reis Ferreira em [April 20, 2015 no grupo do Facebook](https://www.facebook.com/groups/startup.aracaju/permalink/840152999399190/).
+1. (Parcial) Realizado por Rodrigo e Rafael Reis Ferreira em [April 20, 2015 no grupo do Facebook](https://www.facebook.com/groups/startup.aracaju/permalink/840152999399190/).
 Acesse o link no [MapBox](https://a.tiles.mapbox.com/v4/rafaelrferreira.li0676ek/page.html?access_token=pk.eyJ1IjoicmFmYWVscmZlcnJlaXJhIiwiYSI6Im0zeDY1SEUifQ.2jp6xymXjVj1vStEuhj1lQ#14/-10.9602/-37.0616).
+2. (Parcial) Disponível no [MappedInBrazil] (http://mappedinbrasil.com.br/)
 
 ## Comunidades parceiras
 - [Google Developer Groups (GDG)](http://www.gdgaracaju.com.br)
@@ -58,13 +59,17 @@ Acesse o link no [MapBox](https://a.tiles.mapbox.com/v4/rafaelrferreira.li0676ek
 ## Notícias
 Relacionadas ao ecossistema e startups sergipanas.
 - 05.10.2017: [Criação de startup é tema de evento em Aracaju](https://g1.globo.com/se/sergipe/noticia/criacao-de-startup-e-tema-de-evento-em-aracaju.ghtml)
+- 25.04.2017: [Caju Valley: ecossistema de inovação recebe investidor-anjo sergipano para tratar sobre esse tipo de aporte de capital](https://thiagonvieira.jusbrasil.com.br/noticias/451465990/caju-valley-ecossistema-de-inovacao-recebe-investidor-anjo-sergipano-para-tratar-sobre-esse-tipo-de-aporte-de-capital)
 - 19.08.2016: [Auditório do ILBJ recebe Encontro de empreendedores](http://politicaemfoco.net.br/auditorio-do-ilbj-recebe-encontro-de-empreendedores/)
 - 03.06.2014: [Veja como foi a última edição de Aracaju do Startup Weekend](https://startupi.com.br/2014/06/veja-como-foi-ultima-edicao-de-aracaju-startup-weekend/)
 - 10.05.2014: [Startup Weekend acontece pela primeira vez em Aracaju](http://www.infonet.com.br/noticias/economia//ler.asp?id=158958)
+TODO: adicionar mais notícias.
 
-## TODO List
+## TODO - Lista de tarefas
 1. Atualizar website: adicionar redes sociais e links; atualizar startups e parceiros; adicionar link para manifesto.
 2. Corrigir link do Instagram no topo do canal do Youtube.
-3. Formulário de mapeamento das empresas pertencentes ao ecossistema sergipano (ver modelo no Trello, e solicitar respostas de formulários criados anteriormente).
-4. Formulário de cadastro dos participantes do ecossistema.
-5. Criar nova marca.
+3. Criar ou reusar formulário de mapeamento das empresas pertencentes ao ecossistema sergipano (ver modelo no Trello, e solicitar respostas de formulários criados anteriormente).
+4. Criar formulário de cadastro dos participantes do ecossistema.
+5. Adicionar mais notícias.
+6. Criar nova marca.
+7. Desenvolver novo website.
