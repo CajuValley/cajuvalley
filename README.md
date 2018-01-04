@@ -46,6 +46,10 @@ Contamos com você e vamos juntos fazer um Sergipe mais inovador. Para colaborar
 2. Groupo de interesse em discutir sobre Internet das Coisas (em inglês, Internet of Things -- IoT).
 3. Criação do capítulo da [IxDA](https://ixda.org/) aqui em Aracaju: [IxDA](https://ixda.org/) é a Interaction Design Association, um grupo internacional de designers. Originalmente, a [IxDA](https://ixda.org/) focava exclusivamente em Design de Interação, mas hoje em dia o foco é na Experiência do Usuário seja ela qual for, com serviços, artefatos digitais, produtos físicos, etc.
 
+## Mapeamento do Ecossistema
+1. Parcialmente realizado por Rodrigo e Rafael Reis Ferreira em [April 20, 2015 no grupo do Facebook](https://www.facebook.com/groups/startup.aracaju/permalink/840152999399190/).
+Acesse o link no MapBox (https://a.tiles.mapbox.com/v4/rafaelrferreira.li0676ek/page.html?access_token=pk.eyJ1IjoicmFmYWVscmZlcnJlaXJhIiwiYSI6Im0zeDY1SEUifQ.2jp6xymXjVj1vStEuhj1lQ#14/-10.9602/-37.0616).
+
 ## Comunidades parceiras
 - [Google Developer Groups (GDG)](http://www.gdgaracaju.com.br)
 - TODO: [Python User Group (PUG-SE)](http://se.python.org.br/)
