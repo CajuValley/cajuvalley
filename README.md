@@ -1,6 +1,6 @@
 ![Image](https://lh4.googleusercontent.com/tvMinCOcUAcWsxZA9b4OdVxbVgfD4n5GoB8WGkjRUd0SntR1xmmcR161LXJEr3vllV1lad1bOw=w1676)
 # Caju Valley: Um manifesto pela inovação tecnológica de Sergipe
-Você pode editar esse documento acessando o [editor on GitHub](https://github.com/CajuValley/cajuvalley/edit/master/README.md). Para mais detalhes de como codificar essa página, acesse [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Instruções:** Você pode editar esse documento acessando o [editor no GitHub](https://github.com/CajuValley/cajuvalley/edit/master/README.md). Para mais detalhes da codificaçao __markdown__ para essa página, acesse [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) e utilize um editor mais amigável em [Dillinger](https://dillinger.io/) para copiar e colar o código no editor do GitHub.
 
 ## O que é o Caju Valley?
 O Caju Valley não se resume a um local, pessoa, empresa ou organização. Somos uma comunidade plural, formada por e para empreendedores sergipanos movidos pela necessidade de contribuir com a sociedade.
